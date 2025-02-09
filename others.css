@@ -678,11 +678,15 @@ p, li {
     color: var(--color-primary);
 }
 
-.text-box h2, h3 {
+.text-box h2 {
     font-size: var(--font-size-heading-small);
     margin-left: 20px;
 }
 
+.text-box h3 {
+    font-size: 1.5rem;
+    margin-left: 20px;
+}
 .text-box p {
   margin-bottom: 20px;
 }
