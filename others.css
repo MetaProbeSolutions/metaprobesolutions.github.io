@@ -678,8 +678,8 @@ p, li {
     color: var(--color-primary);
 }
 
-.text-box h2 {
-    font-size: var(--font-size-paragraph-big);
+.text-box h2, h3 {
+    font-size: var(--font-size-heading-small);
     margin-left: 20px;
 }
 
