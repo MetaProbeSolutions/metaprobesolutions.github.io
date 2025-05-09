@@ -341,6 +341,14 @@ z-index: -1;
 filter: brightness(35%);
 }
 
+
+.hero-image {
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-color: #333;
+}
+
 .hero-content {
 position: relative;
 z-index: 1;
@@ -1164,10 +1172,7 @@ height: 2.3rem;
 .nav {
 display: none;
 }
-
-.hero {
-height: 80vh;
-}
+  
 .hero video {
 content: url("video/vertical-video.mp4");
 background-image: url("image/alt-thumbnail.jpg");
