@@ -127,7 +127,7 @@ document.querySelectorAll('.error-message').forEach(el => el.textContent = '');
 function submitForm() {
 const formData = new FormData(form);
 
-fetch('https://script.google.com/macros/s/AKfycbwwm5r8dpLKkzWUa9IheQkecDMa0qxpIMCIRjMF-YTprOkVQHKHC3RlCdVG-N7NS9vjpw/exec', { 
+fetch('https://script.google.com/macros/s/AKfycbz2hSzAny-jPclk3WmKW_vHK3Zgt2WbsXsZ5DokMnoJ-OZEtu0IiJVQaljjrhZTOzRSRg/exec', { 
 method: 'POST',
 body: formData
 })
