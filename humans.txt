@@ -1,0 +1,13 @@
+Founder: Adelaja King
+Site: https://metaprobesolutions.com
+Twitter: @MetaprobeS
+Location: Canada
+
+Developer: Gbemisola Oyeniyi
+Site: https://gbemisolaoyeniyi.com
+Twitter: @oliveajike
+
+Last update: 2025-06-02
+Standards: HTML5, CSS3, JavaScript
+Components: Poppins, Playfair Display (Google Fonts)
+Software: Acode
